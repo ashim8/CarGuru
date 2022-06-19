@@ -1,0 +1,51 @@
+[
+    {
+      "image": "https://i.ibb.co/X7TZCnp/i3.png",
+      "id": "1",
+      "name": "Rick",
+      "review": "This is my first BMW and my last. While the car is fun to drive when it works, it has had such major issues (and now expenses) that it ruins the experience. Initially, the engine started to misfire. Eventually, when the car was pouring smoke out the back",
+      "rating": "5"
+    },
+    {
+      "image": "https://i.ibb.co/xFGMLY0/i5.png",
+      "id": "2",
+      "name": "Dipesh ",
+      "review": "Do not buy any BMW products at all. It is not a suggestion but it is a warning as you will regret if anything will go wrong. They are only profit oriented company and do not show any sympathy or care about their customers or general public.",
+      "rating": "3"
+    },
+    {
+      "image": "https://i.ibb.co/KVHH7x0/i6.png",
+      "id": "3",
+      "name": "Michael",
+      "review": "I have a 2020 BMW M4 Convertible. My vehicle has 8,000 miles on it and the brakes are warped and shuttering. My horrible BMW dealership (HENDRICKS BMW CHARLESTON) won't cover it because there is a white paper out on it.",
+      "rating": "5"
+    },
+    {
+      "image": "https://i.ibb.co/9TVkBMY/i7.png",
+      "id": "4",
+      "name": "Mahdi",
+      "review": "I got a brand new 2022 X5 on Dec 22, 2021. After just 1000km drive, the engine light turned on and my car has been in dealership since 5 days ago. Such a frustrating experience with BMW. Perhaps other German competitors are more reliable.",
+      "rating": "5"
+    },
+    {
+      "image": "https://i.ibb.co/xDTjRfS/i8.png",
+      "id": "5",
+      "name": "Philip",
+      "review": "My complaint is in regards to how BMW handled a known issue with their Footwell Module 3 (ie FRM component). I recently purchased a used 2010 335i. While out Christmas shopping the car would not start. We had AAA tow it to one of their repair facilities. ",
+      "rating": "5"
+    },
+    {
+      "image": "https://i.ibb.co/DgH40Rw/i9.png",
+      "id": "6",
+      "name": "McGonigle",
+      "review": "My speedometer in my brand new car is off by 10% and when I brought it in to BMW Spokane for correction, was told BMW has a disclaimer for accuracy of their speedometers. WTF? Having several other electronic issues like the radio randomly shutting itself off!",
+      "rating": "4"
+    },
+    {
+      "image": "https://i.ibb.co/TgGK7ct/i10.png",
+      "id": "7",
+      "name": "Ketura",
+      "review": "How many of you guys have had to replace your door handles on your BMW X5 from the year 2005 to 2008?  There's a defect - very very bad defective thing in their door handles to the point where they will break!",
+      "rating": "5"
+    }
+  ]
